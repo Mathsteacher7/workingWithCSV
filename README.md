@@ -1,6 +1,6 @@
 # workingWithCSV
 
-## What it is all about?
+## What is it all about?
 A nice app that take a CSV file, convert it to JSON file and present the data in a table.
 The data can be sort by any of the columns.
 
