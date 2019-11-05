@@ -10,9 +10,6 @@ class Original extends React.Component {
       data: data
     }
   }
-  componentDidMount(){
-    this.setState({ data: data})
-  }
 
   render() {
     return (

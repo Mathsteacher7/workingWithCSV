@@ -16,7 +16,6 @@ class Country extends React.Component {
 
 
   render() {
-    console.log(this.state.data)
     return (
       <div>
         <CitiesTable

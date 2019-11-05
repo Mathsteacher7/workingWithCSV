@@ -28,7 +28,7 @@ export default function CitiesTable(props) {
               <td>{row.OneHundredMPlus}</td>
               <td>{row.OneHundredFiftyMPlus}</td>
               <td>{row.TwoHunderedMPlus}</td>
-              <td>{row.threeHundredMPlus}</td>
+              <td>{row.ThreeHundredMPlus}</td>
               <td>{row.TelecomTowers}</td>
               <td>{row.AllStructures}</td>
             </tr>
